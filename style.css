@@ -34,3 +34,23 @@ li > a:hover {
   bottom: 3vh;
   left: 40vw;
 }
+
+.left {
+  display: inline-block;
+  border: 2px solid red;
+  width: 47vw;
+  box-sizing: border-box;
+  position: relative;
+  bottom: 405px;
+}
+.right {
+  display: inline-block;
+  border: 2px solid red;
+  width: 47vw;
+}
+.right img {
+  border: 2px solid red;
+  width: 100%;
+  height: 80vh;
+  box-sizing: border-box;
+}
