@@ -23,5 +23,14 @@ li > a:hover {
 }
 
 .logo img {
-  height: 45px;
+  height: 70px;
+  position: relative;
+  top: 5vh;
+  right: 40vw;
+}
+.username {
+  color: brown;
+  position: relative;
+  bottom: 3vh;
+  left: 40vw;
 }
